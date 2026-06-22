@@ -20,16 +20,25 @@ My work sits at the intersection of **program management excellence**, **AI adop
 
 ---
 
-## 🧠 AI Skills & Expertise
+## 🧠 Skills & Expertise
 
+**Program Management Foundation**
 ```text
-AI Strategy & Transformation    ████████████████████  Expert
-Prompt Engineering              ██████████████████░░  Advanced
-RAG Architecture & Design       █████████████████░░░  Advanced
-AI Governance & Risk            ████████████████████  Expert
-LLM Evaluation & Benchmarking   ████████████████░░░░  Proficient
-AI Roadmap & Portfolio Mgmt     ████████████████████  Expert
-Change Management for AI        ████████████████████  Expert
+Program & Portfolio Management    ████████████████████  Expert
+Portfolio Governance & Readiness  ████████████████████  Expert
+Change Enablement                 ████████████████████  Expert
+Stakeholder Management            ████████████████████  Expert
+Business Analysis & Reporting     ██████████████████░░  Advanced
+```
+
+**AI — Applied & Building**
+```text
+AI-Enabled Productivity Tools     ████████████░░░░░░░░  Applied
+GenAI for Content & Docs          ████████████░░░░░░░░  Applied
+Prompting Techniques              ████████░░░░░░░░░░░░  Foundational
+Responsible AI Awareness          ████████░░░░░░░░░░░░  Foundational
+Azure AI Fundamentals             ██████░░░░░░░░░░░░░░  Learning
+Power Platform                    ████░░░░░░░░░░░░░░░░  Learning
 ```
 
 ---
