@@ -43,6 +43,18 @@ Power Platform                    ████░░░░░░░░░░░�
 ```
 
 ---
+## 📚 What I'm Learning Now
+
+I'm continuously expanding my AI and automation skillset to stay ahead of emerging enterprise capabilities. Current focus areas include:
+
+- **Advanced Prompt Engineering** — designing multi-step reasoning prompts and domain-specific prompt frameworks  
+- **AI Governance & Responsible AI Practices** — strengthening enterprise governance frameworks, risk management approaches, and ethical AI implementation  
+- **AI Literacy & Change Enablement** — developing training materials to help organizations adopt AI responsibly
+- **Microsoft Power Platform Fundamentals** — building AI-enabled workflows, automation, and low-code apps to modernize business processes
+- **Microsoft Visual Data** — improving data visualization, AI-assisted insights, and visual analytics for decision support
+- **Google AI Fundamentals** — broadening cross-platform AI literacy and understanding foundational ML concepts outside the Microsoft ecosystem
+
+---
 
 ## 🏅 Certifications & Credentials
 
@@ -83,14 +95,6 @@ A structured framework for responsible AI deployment, covering policy templates,
 
 ### 🔍 [`rag-architecture-documentation`](#)
 Technical and architectural documentation for Retrieval-Augmented Generation systems — including system design patterns, chunking strategies, embedding considerations, retrieval evaluation, and integration playbooks.
-
----
-
-## 📊 GitHub Activity
-Jennifer's GitHub Stats
-
-![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-shipley-ai&show_icons=true&theme=tokyonight&cache_seconds=60)
-
 
 ---
 
