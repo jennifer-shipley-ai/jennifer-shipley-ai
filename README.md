@@ -1,7 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="GitHub AI Banner.png" alt="Jennifer Shipley - AI Transformation Program Manager" />
+</p>
 
-# Jennifer Shipley, MBA | PMP
-### Senior Program & Portfolio Manager · AI Transformation Strategist
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifershipley-pmp/)
 [![PMP Certified](https://img.shields.io/badge/PMI-PMP%20Certified-brightgreen?style=flat)](https://www.pmi.org)
