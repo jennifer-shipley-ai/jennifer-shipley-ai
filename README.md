@@ -84,16 +84,16 @@ I'm continuously expanding my AI and automation skillset to stay ahead of emergi
 
 > *This profile showcases practitioner-grade resources built from real-world AI transformation work.*
 
-### 🗺️ [`ai-transformation-playbook`](#)
+### 🗺️ [AI Transformation Playbook](https://github.com/jennifer-shipley-ai/ai-transformation-playbook)
 A comprehensive, phase-by-phase playbook for leading enterprise AI transformation programs — covering strategy, stakeholder alignment, governance, change management, and scaling. Designed for program managers and business leaders.
 
-### ✍️ [`prompt-engineering-library`](#)
+### ✍️ [AI Governance Framework](https://github.com/jennifer-shipley-ai/ai-governance-framework)
 A curated, categorized library of production-tested prompt templates for enterprise use cases — including summarization, classification, extraction, chain-of-thought reasoning, and role-based prompting patterns.
 
-### 🛡️ [`ai-governance-framework`](#)
+### 🛡️ [Prompt Engineering Library for PMs](https://github.com/jennifer-shipley-ai/prompt-engineering-library)
 A structured framework for responsible AI deployment, covering policy templates, risk assessment matrices, bias review checklists, AI acceptable use policies, and regulatory compliance guidance (EU AI Act, NIST AI RMF).
 
-### 🔍 [`rag-architecture-documentation`](#)
+### 🔍 [RAG Semantic Search Architecture](https://github.com/jennifer-shipley-ai/rag-semantic-search-architecture)
 Technical and architectural documentation for Retrieval-Augmented Generation systems — including system design patterns, chunking strategies, embedding considerations, retrieval evaluation, and integration playbooks.
 
 ---
