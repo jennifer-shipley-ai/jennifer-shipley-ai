@@ -87,12 +87,10 @@ Technical and architectural documentation for Retrieval-Augmented Generation sys
 ---
 
 ## 📊 GitHub Activity
+Jennifer's GitHub Stats
 
-<div align="center">
+![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-shipley-ai&show_icons=true&theme=tokyonight&cache_seconds=60)
 
-![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-shipley-ai&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
 
 ---
 
