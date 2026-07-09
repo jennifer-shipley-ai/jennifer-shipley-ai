@@ -50,8 +50,8 @@ Power Platform                    ████░░░░░░░░░░░�
 | **Project Management Professional (PMP)** | PMI | Program & Portfolio Management |
 | **Master of Business Administration (MBA)** | McCombs School of Business, UT Austin | Strategy, Operations, Leadership |
 | **AI-901: Microsoft Azure AI Fundamentals** | Microsoft | Azure AI Services & Concepts |
-| **AB-730: Microsoft AI Business Professional** | Microsoft (In Progress) | Generative AI Productivity |
-| **AB-731: Microsoft AI Transformation Leader** | Microsoft (In Progress) | Enterprise AI Strategy |
+| **AB-730: Microsoft AI Business Professional** | Microsoft | Generative AI Productivity |
+| **AB-731: Microsoft AI Transformation Leader** | Microsoft | Enterprise AI Strategy |
 
 ---
 
